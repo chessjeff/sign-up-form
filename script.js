@@ -4,7 +4,7 @@ const passwordError = document.getElementById('error')
 
 function validatePassword() {
     if (password.value !== confirmedPassword.value) {
-        passwordError.textContent = "Passwords do not match";
+        passwordError.textContent = "* Passwords do not match";
     } else {
         passwordError.textContent = '';
     }
