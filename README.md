@@ -1,1 +1,2 @@
-# sign-up-form
+This is an example of a sign-up form that I created as part of The Odin Project. It is an introduction to implementing form elements in HTML and styling them with CSS.
+Some form validation techniques are used for checking that passwords match using CSS and JavaScript.
